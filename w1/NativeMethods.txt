@@ -1,0 +1,57 @@
+﻿// Const value
+INFINITE
+WM_GETMINMAXINFO
+WM_NCRBUTTONDOWN
+WM_NCRBUTTONUP
+WM_NULL
+
+// Type & Enum definition
+CWMO_FLAGS
+MINMAXINFO
+LPTHREAD_START_ROUTINE
+
+// COMCTL32
+DefSubclassProc
+RemoveWindowSubclass
+SetWindowSubclass
+
+// DWMAPI
+DwmGetWindowAttribute
+DwmSetWindowAttribute
+
+// GDI32
+GetDeviceCaps
+
+// KERNEL32
+CreateEvent
+CreateRemoteThread
+CreateToolhelp32Snapshot
+GetModuleHandle
+GetProcAddress
+Module32First
+Module32Next
+ReadProcessMemory
+SetEvent
+VirtualAlloc
+VirtualAllocEx
+VirtualFree
+VirtualFreeEx
+WaitForSingleObject
+WriteProcessMemory
+
+// OLE32
+CoWaitForMultipleObjects
+
+// USER32
+AttachThreadInput
+FindWindowEx
+GetDC
+GetDpiForWindow
+GetForegroundWindow
+GetWindowPlacement
+GetWindowThreadProcessId
+SetForegroundWindow
+ReleaseDC
+
+// WinRT
+IMemoryBufferByteAccess

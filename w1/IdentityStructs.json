@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Name": "AchievementGoalId",
+    "Type": "int",
+    "Documentation": "1-2位 成就分类Id"
+  },
+  {
+    "Name": "AchievementId",
+    "Type": "int",
+    "Documentation": "5位 成就Id"
+  },
+  {
+    "Name": "AvatarId",
+    "Type": "int",
+    "Documentation": "8位 角色Id"
+  },
+  {
+    "Name": "CostumeId",
+    "Type": "int",
+    "Documentation": "6位 角色装扮Id"
+  },
+  {
+    "Name": "EquipAffixId",
+    "Type": "int",
+    "Documentation": "6位 装备属性Id"
+  },
+  {
+    "Name": "ExtendedEquipAffixId",
+    "Type": "int",
+    "Documentation": "7位 装备属性Id"
+  },
+  {
+    "Name": "MaterialId",
+    "Type": "int",
+    "Documentation": "3-6位 材料Id"
+  },
+  {
+    "Name": "MonsterId",
+    "Type": "int",
+    "Documentation": "8位 怪物Id"
+  },
+  {
+    "Name": "PromoteId",
+    "Type": "int",
+    "Documentation": "1-5位 角色突破提升Id"
+  },
+  {
+    "Name": "ReliquaryAffixId",
+    "Type": "int",
+    "Documentation": "6位 圣遗物副词条Id"
+  },
+  {
+    "Name": "ReliquaryId",
+    "Type": "int",
+    "Documentation": "5位 圣遗物Id"
+  },
+  {
+    "Name": "ReliquaryMainAffixId",
+    "Type": "int",
+    "Documentation": "5位 圣遗物主属性Id"
+  },
+  {
+    "Name": "ReliquarySetId",
+    "Type": "int",
+    "Documentation": "5位 圣遗物套装Id"
+  },
+  {
+    "Name": "SkillGroupId",
+    "Type": "int",
+    "Documentation": "3-4位 技能组Id"
+  },
+  {
+    "Name": "SkillId",
+    "Type": "int",
+    "Documentation": "5-6位 技能Id"
+  },
+  {
+    "Name": "WeaponId",
+    "Type": "int",
+    "Documentation": "5位 武器Id"
+  }
+]
